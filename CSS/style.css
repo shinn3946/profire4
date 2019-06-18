@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.main {
+    display: flex;
+}
+.profire {
+    font-size: 18px;
+}
+.profire span {
+    color: #FF0000;
+}

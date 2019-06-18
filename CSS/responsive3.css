@@ -1,0 +1,56 @@
+@media (max-width: 1000px) {
+    .top-wrapper {
+    text-align: center;
+  }
+    .flex {
+        display: block !important;
+  }
+    .profile {
+        padding-left: 0px;
+        padding-top: 120px;
+  }
+    .message {
+      padding-top: 240px;
+    }
+}
+
+@media (max-width: 670px) {
+    .header-right {
+        display: none;
+      }
+    .menu-icon {
+        display: block !important;
+      }
+    .jibun {
+        padding-left: 0;
+        text-align: center;
+        width: 100%;
+    }
+    .profile h1 {
+      font-size: 30px;
+    }  
+    .profile li {
+      font-size: 20px;
+      font-weight:bold;  
+    }
+    .message {
+      font-size: 20px;
+      padding-top: 120px;  
+    }
+    .btn {
+      width: 100%;  
+    }
+    footer p {
+      font-size: 10px;
+    }
+    .top-wrapper {
+      text-align: center;
+    } 
+    .flex {
+      display: block !important;
+    }
+    .profile {
+      padding-left: 0px;
+      padding-top: 160px;
+    }
+}
